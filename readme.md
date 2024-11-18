@@ -1,5 +1,5 @@
 ## Kafka Streamer
-Stream Real Time Sensor Data(Location, Accuracy, Accelerometer, Light, Steps, Health etc.) through Flask into confluence Kafka. [Youtube Showcase](https://www.youtube.com/watch?v=5woO06dWIL0&ab_channel=A.H.M.ANNUR)
+Stream Real Time Sensor Data(Location, Accuracy, Accelerometer, Light, Steps, Health etc.) through Flask into Kafka. [Youtube Showcase](https://www.youtube.com/watch?v=5woO06dWIL0&ab_channel=A.H.M.ANNUR)
 
 Tech Stack -> Docker, Confluence Kafka + Zookeeper, Nginx, Flask, Python
 
